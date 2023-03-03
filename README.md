@@ -6,10 +6,6 @@
 
 #### Encabezado 4
 
-##### Encabezado 5
-
-###### Encabezado 6
-
 Esta es una descripcion de mi proyecto de React para CoderHouse
 
 Quiero esccribir algo en **Negrita**
